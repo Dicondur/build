@@ -1,0 +1,23 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "Tools for automating build deployment",
+  "main": "start.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OftenUsed/build.git"
+  },
+  "keywords": [
+    "Build",
+    "tools"
+  ],
+  "author": "Dinesh R Condur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OftenUsed/build/issues"
+  },
+  "homepage": "https://github.com/OftenUsed/build#readme"
+}
