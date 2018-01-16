@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/OftenUsed/build/issues"
   },
-  "homepage": "https://github.com/OftenUsed/build#readme"
+  "homepage": "https://github.com/OftenUsed/build#readme",
+  "dependencies": {
+    "node-rdp": "^1.0.1"
+  }
 }
