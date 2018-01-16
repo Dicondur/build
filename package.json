@@ -4,11 +4,17 @@
   "description": "Tools for automating build deployment",
   "main": "start.js",
   "scripts": {
-    "test": "test"
+    "stop": "stop",
+    "backup": "backup",
+    "getISO": "getISO",
+    "setupProperty": "setupProperty",
+    "setupConfig": "setupConfig",
+    "start": "npm start"
+
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OftenUsed/build.git"
+    "url": ""
   },
   "keywords": [
     "Build",
