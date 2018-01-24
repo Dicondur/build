@@ -9,7 +9,7 @@
     "getISO": "getISO",
     "setupProperty": "setupProperty",
     "setupConfig": "setupConfig",
-    "start": "npm start"
+    "start": "node start.js"
 
   },
   "repository": {
